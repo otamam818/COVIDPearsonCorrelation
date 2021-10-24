@@ -1,5 +1,5 @@
 # COVIDPearsonCorrelation
-Get the Pearson Correlation between 2 countries  
+Get the Pearson Correlation of COVID cases between 2 countries  
   
   
 ## Dependencies  
